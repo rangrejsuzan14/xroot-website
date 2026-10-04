@@ -1,6 +1,6 @@
 # XROOT - Cyber Security Learning Platform
 
-A PHP and MySQL based web application developed as a college project. XROOT is designed as a cyber security learning platform where users can explore cybersecurity services, certifications, learning resources, and practical security topics.
+A PHP and MySQL based web application developed as a college project. XROOT is designed as a cybersecurity learning platform where users can explore cybersecurity services, certifications, learning resources, and practical security topics.
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ A PHP and MySQL based web application developed as a college project. XROOT is d
 - Cybersecurity Services
 - Practical Security Topics
 - Database-driven content
-- Responsive web interface
+- Responsive Web Interface
 
 ## 🛠️ Technologies Used
 
@@ -27,7 +27,7 @@ A PHP and MySQL based web application developed as a college project. XROOT is d
 
 The project uses MySQL for storing application data.
 
-Database name:
+**Database Name:**
 
 `xroot_db`
 
@@ -39,14 +39,13 @@ The project was developed and tested locally using XAMPP.
 
 Install XAMPP with Apache and MySQL.
 
-### 2. Clone the repository
+### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/rangrejsuzan14/xroot-website.git
-
 ```
 
-### 3. Place the project
+### 3. Place the Project
 
 Place the project folder inside:
 
@@ -67,7 +66,7 @@ Open XAMPP Control Panel and start:
 - Apache
 - MySQL
 
-### 5. Configure the database
+### 5. Configure the Database
 
 Open phpMyAdmin:
 
@@ -83,13 +82,55 @@ xroot_db
 
 Import the required database tables/data if a SQL database export is provided with the project.
 
-### 6. Run the website
+### 6. Run the Website
 
 Open:
 
 ```text
 http://localhost/xroot/
 ```
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+![XROOT Homepage](homepage.png)
+
+### 🏠 Homepage - View 2
+
+![XROOT Homepage 2](homepage1.png)
+
+### 🏠 Homepage - View 3
+
+![XROOT Homepage 3](homepage2.png)
+
+### 🏠 Homepage - View 4
+
+![XROOT Homepage 4](homepage3.png)
+
+### 📚 Learning Page
+
+![XROOT Learning Page](learn.png)
+
+### 🧪 Practice Page
+
+![XROOT Practice Page](practice.png)
+
+### 🏆 Certification Page
+
+![XROOT Certification Page](certification.png)
+
+### 🛡️ Services Page
+
+![XROOT Services Page](services.png)
+
+### 📝 Signup Page
+
+![XROOT Signup Page](signup.png)
+
+### 🔐 Login Page
+
+![XROOT Login Page](login.png)
 
 ## 📂 Project Structure
 
@@ -111,7 +152,18 @@ xroot-website/
 ├── cloud.jpg
 ├── forensics.jpg
 ├── web.jpg
-└── logo..jpg
+├── logo..jpg
+│
+├── homepage.png
+├── homepage1.png
+├── homepage2.png
+├── homepage3.png
+├── learn.png
+├── practice.png
+├── certification.png
+├── services.png
+├── signup.png
+└── login.png
 ```
 
 ## 🎯 Project Objective
@@ -132,6 +184,17 @@ Potential future improvements include:
 - CSRF protection
 - Improved authentication security
 
+## 🚀 Future Improvements
+
+- Online deployment
+- User profile management
+- Admin dashboard
+- More cybersecurity learning modules
+- Online certification system
+- Improved authentication and authorization
+- Enhanced database security
+- Mobile-friendly improvements
+
 ## 👩‍💻 Developer
 
 **Suzan Rangrej**
@@ -140,4 +203,8 @@ Computer Science | Cybersecurity
 
 ## 📌 Project Status
 
-Completed — College Project
+**Completed — College Project**
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
